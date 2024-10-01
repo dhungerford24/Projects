@@ -1,4 +1,4 @@
-# Projects
+# 1% Cloud Projects
 Description of AWS Cloud Projects
 
 # PROJECT 1 - Migrating Company's Legacy System to AWS 
