@@ -11,16 +11,4 @@ I first installed required tools (AWS CLI and eksctl) in order to interact with 
 
 
 
-#### Step 4: Commit the Changes
-- After you’ve made your changes, scroll to the bottom of the page.
-- Add a **commit message** (e.g., `Updated README with project details`).
-- Choose whether to commit directly to the `main` branch or create a new branch.
-- Click **Commit changes**.
 
-### **3. Push Changes via Git (Optional)**
-
-If you're working locally, you can make changes to the `README.md` file and push it to GitHub using Git.
-
-#### Step 1: Clone the Repository
-```bash
-git clone https://github.com/dhungerford24/Projects.git
